@@ -4,9 +4,9 @@ const polaroidImages = [
   { src: '/assets/img/svatebni.webp', alt: 'Svatební dort s elegantní dekorací' },
   { src: '/assets/img/frozen.webp', alt: 'Frozen dort pro děti' },
   { src: '/assets/img/harry.webp', alt: 'Harry Potter tematický dort' },
-  { src: '/assets/img/arthur.webp', alt: 'Arthur dort s originální dekorací' },
-  { src: '/assets/img/masa.webp', alt: 'Máša dort pro nejmenší' },
-  { src: '/assets/img/panenka.webp', alt: 'Dort ve tvaru panenky' },
+  { src: '/assets/img/kytara.jpg', alt: 'Dort ve tvaru kytary pro hudebníky' },
+  { src: '/assets/img/lego.jpg', alt: 'LEGO dort pro stavitele' },
+  { src: '/assets/img/dinousaur.jpg', alt: 'Dinosauří dort pro malé cestovatele časem' },
 ];
 
 export default function Hero() {

@@ -16,6 +16,23 @@ export default function GalleryPage({ onNavigate }: GalleryPageProps) {
     { src: '/assets/img/panenka.webp', alt: 'Dort ve tvaru panenky' },
     { src: '/assets/img/pes.webp', alt: 'Dort s motivem pejska' },
     { src: '/assets/img/bus.webp', alt: 'Dort ve tvaru autobusu' },
+    { src: '/assets/img/60_narozeniny.jpg', alt: 'Dort k 60. narozeninám' },
+    { src: '/assets/img/basketball.jpg', alt: 'Basketbalový dort pro sportovce' },
+    { src: '/assets/img/bile_kvetiny.jpg', alt: 'Dort s bílými květinami' },
+    { src: '/assets/img/box_makeup.jpg', alt: 'Dort ve tvaru makeup boxu' },
+    { src: '/assets/img/dalmatin.jpg', alt: 'Dalmatin dort pro milovníky psů' },
+    { src: '/assets/img/dinousaur.jpg', alt: 'Dinosauří dort pro malé cestovatele časem' },
+    { src: '/assets/img/dres.jpg', alt: 'Dort ve tvaru fotbalového dresu' },
+    { src: '/assets/img/hroch.jpg', alt: 'Dort s motivem hrocha' },
+    { src: '/assets/img/jméno.jpg', alt: 'Dort s personalizovaným jménem' },
+    { src: '/assets/img/kvetiny.jpg', alt: 'Dort zdobený barevnými květinami' },
+    { src: '/assets/img/kytara.jpg', alt: 'Dort ve tvaru kytary pro hudebníky' },
+    { src: '/assets/img/lego.jpg', alt: 'LEGO dort pro stavitele' },
+    { src: '/assets/img/lego2.jpg', alt: 'LEGO dort s barevnými kostičkami' },
+    { src: '/assets/img/minion.jpg', alt: 'Mimoň dort ze slavného filmu' },
+    { src: '/assets/img/olaf.jpg', alt: 'Olaf dort z pohádky Ledové království' },
+    { src: '/assets/img/papoušek.jpg', alt: 'Dort s motivem papouška' },
+    { src: '/assets/img/tráva.jpg', alt: 'Dort s dekorací trávy a přírody' },
   ];
 
   const IMAGES_PER_PAGE = 6;
